@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+}
+main{
+    width: 100%;
+    flex-direction: column;
+}
+.main{
+    align-items: center;
+}
+.card{
+    display:flex;
+    width:100%;
+    height:100%;
+    flex-direction:column;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 350px;
+    height: 200px;
+}
+
+.hideElement{
+    display:none;
+}
